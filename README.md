@@ -1,1 +1,1 @@
-# Line-Stock-Price-Prediction
+# Like-Stock-Price-Prediction
