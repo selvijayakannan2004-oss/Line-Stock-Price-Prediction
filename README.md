@@ -1,1 +1,1 @@
-# Like-Stock-Price-Prediction
+# Live-Stock-Price-Prediction
